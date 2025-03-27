@@ -1,7 +1,7 @@
 var nome= prompt("Insira seu nome: ");
 var idade=parseInt(prompt("Insira sua idade: "));
 
-var nomeIdade = ("Seu nome é " + nome + "e sua idade é "+ idade);
+var nomeIdade = ("Seu nome é " + nome + " e sua idade é "+ idade);
 alert("Seja bem-vindo, confira suas informações: "+ nomeIdade);
 console.log(nomeIdade)
 
